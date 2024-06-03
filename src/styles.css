@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 0 100px;
+}
+.emoji-container {
+  display: flex;
+  grid-column-gap: 40px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.emoji-container h2 {
+  cursor: pointer;
+}
